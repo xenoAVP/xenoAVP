@@ -1,6 +1,6 @@
 We live in a twilight world, no friends at dusk.
 
-zip >  ~ git-[master]- $ fastfetch
+```zip >  ~ git-[master]- $ fastfetch
                   -`                     zip@archbtw
                  .o+`                    -----------
                 `ooo/                    OS: Arch Linux x86_64
@@ -25,4 +25,4 @@ zip >  ~ git-[master]- $ fastfetch
                                          Disk (/run/media/zip/Ventoy): 9.59 GiB / 2]
                                          Local IP (wlan0): 192.168.66.9/20
                                          Battery (A32-K55): 93% (5 hours, 29 mins r]
-                                         Locale: en_US.UTF-8
+                                         Locale: en_US.UTF-8```
