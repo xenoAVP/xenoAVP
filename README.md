@@ -1,6 +1,6 @@
 We live in a twilight world, no friends at dusk.
 
-> zip >  ~ git-[master]- $ fastfetch
+zip >  ~ git-[master]- $ fastfetch
                   -`                     zip@archbtw
                  .o+`                    -----------
                 `ooo/                    OS: Arch Linux x86_64
