@@ -1,6 +1,7 @@
 # We live in a twilight world, no friends at dusk.
 
-```zip >  ~ git-[master]- $ fastfetch
+```bash
+zip >  ~ git-[master]- $ fastfetch
 
                                        zip@archbtw
                                      -----------
