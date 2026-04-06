@@ -6,7 +6,7 @@ zip >  ~ git-[master]- $ fastfetch
                                        zip@archbtw
                                      -----------
                   -`                     OS: Arch Linux x86_64-zen
-                 .o+`                             WM: Hyprland (+axshell)
+                 .o+`                             WM: Hyprland (+AMBXST)
                 `ooo/                                  Terminal: Kitty! (+zsh)
                `+oooo:                   SoC: 8845HS
               -+oooooo+:                 Uptime: 9466560 Hours
